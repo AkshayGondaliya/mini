@@ -29,3 +29,14 @@ git add.
 ```bash
 git commit -m "first commit"
 ```
+```bash
+git remote add origin https://github.com/AkshayGondaliya/mini.git
+```
+```bash
+git branch -M main
+```
+```bash
+git push origin main
+```
+
+
